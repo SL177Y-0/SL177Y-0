@@ -1,6 +1,6 @@
 ⚡ About Me :⚡
 
-I’m currently working on:
+🔭 I’m currently working on:
 Improving my projects and implementing microservices architecture.
 
 👯 I’m looking to collaborate on:
