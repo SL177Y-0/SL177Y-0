@@ -32,3 +32,11 @@ I am also a hardware technician.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Tech Stack
+
+- **React**: For building the user interface and managing the frontend logic.
+- **Node.js**: Server-side runtime for handling API requests.
+- **MongoDB**: NoSQL database for storing application data.
+- **Docker**: Containerization of the application for deployment and scaling.
+
