@@ -24,10 +24,6 @@ I am also a hardware technician.
 | ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js** | Backend framework for server-side APIs. |
 | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**         | Frontend library for building UIs. |
 | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js**    | JavaScript runtime for backend development. |
-## Tech Stack
-
-| Technology                                                                 | Description                                 |
-|-----------------------------------------------------------------------------|---------------------------------------------|
 | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **AWS**               | Cloud platform for hosting and infrastructure. |
 | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**           | Styling for the user interface.             |
 | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**   | Scripting language for web development.     |
