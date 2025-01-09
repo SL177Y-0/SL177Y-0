@@ -24,3 +24,9 @@ I am also a hardware technician.
 | ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js** | Backend framework for server-side APIs. |
 | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**         | Frontend library for building UIs. |
 | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js**    | JavaScript runtime for backend development. |
+## Tech Stack - MERN
+
+- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) **MongoDB**: NoSQL database used for data storage.
+- ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js**: Backend framework for building server-side APIs.
+- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**: Library for building user interfaces.
+- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js**: JavaScript runtime for server-side programming.
