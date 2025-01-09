@@ -60,3 +60,4 @@ I am also a hardware technician.
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-%230078D4.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-%234285F4.svg?style=for-the-badge&logo=googleanalytics&logoColor=white) 
+![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
