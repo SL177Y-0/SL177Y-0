@@ -40,3 +40,9 @@ I am also a hardware technician.
 - **MongoDB**: NoSQL database for storing application data.
 - **Docker**: Containerization of the application for deployment and scaling.
 
+## Tech Stack
+
+- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**: Frontend development
+- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js**: Backend runtime
+- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) **MongoDB**: Database management
+- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker**: Containerization
