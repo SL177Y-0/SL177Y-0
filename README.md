@@ -50,7 +50,6 @@ I am also a hardware technician.
 ![JWT](https://img.shields.io/badge/JWT-%2300B0FF.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
 ![Stripe](https://img.shields.io/badge/Stripe-%23646EFB.svg?style=for-the-badge&logo=stripe&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-%2300A79B.svg?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) 
