@@ -25,6 +25,7 @@ I am also a hardware technician.
 - **Database:** MongoDB, mySQL 
 - **DevOps:** Docker, Kubernetes
 - **Version Control:** Git, GitHub
+- **Web3:** Solidity,Ether.js,SepoliaTestnet
   
 ## Tech Stack
 
