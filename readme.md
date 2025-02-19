@@ -21,9 +21,9 @@ I am also a hardware technician.
 ## SKILLS 
 
 - **Frontend:** React, Tailwind CSS, Axios , jquery , vue.js , next.js
-- **Backend:** Node.js, Express.js, python , laravel , next.js
+- **Backend:** Node.js, Express.js, python , laravel , nestJS
 - **Database:** MongoDB, mySQL 
-- **DevOps:** Docker, Kubernetes
+- **DevOps:** Docker
 - **Version Control:** Git, GitHub
 - **Web3:** Solidity,Ether.js,SepoliaTestnet
   
