@@ -10,7 +10,7 @@ Improving my projects and implementing microservices architecture.
 Fullstack web projects
 
 🌱 I’m currently learning:
-Advanced AWS Services and Data Analytics.
+Advanced AWS Services and Data Analytics and Blockchain-AI.
 
 💬 Ask me about:
 JavaScript, React, Nextjs, Node.js and any general software development questions.
@@ -20,12 +20,13 @@ I am also a hardware technician.
 
 ## SKILLS 
 
-- **Frontend:** React, Tailwind CSS, Axios , jquery , vue.js , next.js
-- **Backend:** Node.js, Express.js, python , laravel , nestJS
-- **Database:** MongoDB, mySQL 
+- **Frontend:** REACT , Tailwind CSS, VITEJS , VUEJS , NEXTJS
+- **Backend:** NODEJS , EXPRESSJS , PYTHON , PHP , NESTJS
+- **Database:** MongoDB, MySQL 
 - **DevOps:** Docker
-- **Version Control:** Git, GitHub
-- **Web3:** Solidity,Ether.js,SepoliaTestnet
+- **Version Control:** Git, GitHub 
+- **Web3:** Solidity , Ether.js , SepoliaTestnet
+- **AI:** HuggingFace , Kaggle , Python
   
 ## Tech Stack
 
