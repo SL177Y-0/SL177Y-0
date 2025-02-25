@@ -21,12 +21,13 @@ I am also a hardware technician.
 ## SKILLS 
 
 - **Frontend:** REACT , Tailwind CSS, NEXTJS
-- **Backend:** NODEJS , EXPRESSJS , PYTHON , PHP , NESTJS
+- **Backend:** NODEJS , EXPRESSJS , PHP , NESTJS
 - **Database:** MongoDB, MySQL 
-- **DevOps:** Docker
-- **Version Control:** Git, GitHub 
-- **Web3:** Solidity , Ether.js 
-- **AI:** HuggingFace , Kaggle , Python
+- **DevOps:** DOCKER
+- **Version Control:** GIT, GITHUB 
+- **Web3:** SOLIDITY , ETHER.JS 
+- **AI/ANALYTICS:** HUGGINGFACE , KAGGLE , PYTHON
+- **DEPLOYMENT:** RENDER , RAILWAY , VERCEL , HEROKU . GITHUB PAGES , FIREBASE.
   
 ## Tech Stack
 
