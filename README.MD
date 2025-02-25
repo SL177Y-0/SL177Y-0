@@ -16,7 +16,7 @@ Advanced AWS Services and Data Analytics and Blockchain-AI.
 JavaScript, React, Nextjs, Node.js and any general software development questions.
 
 ⚡ Fun fact:
-I am also a hardware technician.
+I am also a hardware technician.I am Flexible to Adopt New Tech.
 
 ## SKILLS 
 
@@ -30,8 +30,6 @@ I am also a hardware technician.
 - **DEPLOYMENT:** RENDER , RAILWAY , VERCEL , HEROKU . GITHUB PAGES , FIREBASE.
   
 ## Tech Stack
-
-## Technologies & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
