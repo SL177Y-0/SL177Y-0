@@ -16,7 +16,7 @@ Advanced AWS Services and Data Analytics and Blockchain-AI.
 JavaScript, React, Nextjs, Node.js and any general software development questions.
 
 ⚡ Fun fact:
-I am also a hardware technician.I am Flexible to Adopt New Tech.
+I am also a hardware technician and Flexible to Adopt New Tech.
 
 ## SKILLS 
 
