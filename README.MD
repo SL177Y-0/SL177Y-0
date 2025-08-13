@@ -1,22 +1,16 @@
 -------------------------------------------------------------------
 Check Me Out On https://sl177y.vercel.app/
 -------------------------------------------------------------------
-⚡ About Me :⚡
+⚡ About Me ⚡
+🔭 Currently working on: Building innovative AI–Blockchain integrated applications, fine-tuning LLM responses, and exploring microservices architecture for scalable systems.
 
-🔭 I’m currently working on:
-Improving my projects and implementing microservices architecture.
+👯 Looking to collaborate on: Full-stack web projects, decentralized applications (DApps), AI-driven platforms, and performance-optimized systems.
 
-👯 I’m looking to collaborate on:
-Fullstack web projects
+🌱 Currently learning: Advanced AWS services, data analytics, and next-gen blockchain–AI integrations.
 
-🌱 I’m currently learning:
-Advanced AWS Services and Data Analytics and Blockchain-AI.
+💬 Ask me about: JavaScript/TypeScript, React.js/Next.js, Node.js/NestJS, Solidity, API integrations, and scalable architecture design.
 
-💬 Ask me about:
-JavaScript, React, Nextjs, Node.js and any general software development questions.
-
-⚡ Fun fact:
-I am also a hardware technician and Flexible to Adopt New Tech.
+⚡ Fun fact: Besides coding, I’m also a hardware technician, quick to adapt to new tech stacks, and have hands-on experience in SEO, UI/UX design, and product branding.
 
 
 
