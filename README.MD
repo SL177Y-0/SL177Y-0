@@ -1,7 +1,9 @@
 -------------------------------------------------------------------
 Check Me Out On https://sl177y.vercel.app/
 -------------------------------------------------------------------
+
 ⚡ About Me ⚡
+
 🔭 Currently working on: Building innovative AI–Blockchain integrated applications, fine-tuning LLM responses, and exploring microservices architecture for scalable systems.
 
 👯 Looking to collaborate on: Full-stack web projects, decentralized applications (DApps), AI-driven platforms, and performance-optimized systems.
