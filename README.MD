@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rishi Rawat aka (SL177Y)  
+# 👋 Hey there, I'm Rishi Rawat aka SL177Y  
 
 🔗 **Check Me Out On:** [https://sl177y.vercel.app/](https://sl177y.vercel.app/)  
 
