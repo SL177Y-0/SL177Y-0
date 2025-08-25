@@ -2,7 +2,9 @@
 Check Me Out On https://sl177y.vercel.app/
 -------------------------------------------------------------------
 
+---
 ⚡ About Me ⚡
+---
 
 🔭 Currently working on // Building AI–Blockchain integrated applications, fine-tuning LLM outputs,Mobile-Based Development and designing microservices-based architectures for scalable and resilient systems //
 
