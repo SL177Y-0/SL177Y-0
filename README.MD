@@ -1,4 +1,4 @@
-# 👋 Here is Rishi Rawat aka SL177Y
+# 👋 Rishi Rawat aka SL177Y
 
 <div align="center">
 
@@ -95,7 +95,7 @@ const currentFocus = {
   learning: ["Advanced AWS Services", "WebGL Shaders", "AI Model Training"],
   building: ["AI × Blockchain DApps", "3D Web Experiences", "Microservices"],
   exploring: ["WebAssembly", "Edge Computing"],
-  collaborating: ["Open Source Projects", "Startup MVPs", "Research Papers"]
+  collaborating: ["Open Source Contribution", "Startup MVPs"]
 }
 ```
 
