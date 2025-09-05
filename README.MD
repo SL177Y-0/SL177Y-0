@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rishi Rawat aka SL177Y
+# 👋 Here is Rishi Rawat aka SL177Y
 
 <div align="center">
 
