@@ -16,7 +16,7 @@
 Building **AI × Blockchain** integrated applications, **3D interactive web experiences**, fine-tuning LLM outputs, and designing **microservices-based architectures** for scalable systems.
 
 🚀 **Recent Achievement:**  
-Created a **3D Interactive Portfolio** with 49+ technologies, featuring lazy-loaded 3D models, Pokémon-inspired skill cards, and 70% performance optimization.
+Created a **3D Interactive Portfolio** , featuring lazy-loaded 3D models, Pokémon-inspired skill cards, and 70% performance optimization.
 
 🤝 **Open to collaborating on:**  
 Full-stack web applications, **decentralized platforms (dApps)**, **AI-driven products**, 3D web experiences, and high-performance backend systems.
