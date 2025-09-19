@@ -59,15 +59,12 @@ Passionate about **UI/UX design**, hardware expertise, SEO & digital branding, b
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-6B4C93?style=for-the-badge&logo=phaser&logoColor=white)
 ![WebContainer](https://img.shields.io/badge/WebContainer-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![VibeCode](https://img.shields.io/badge/VibeCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 ## 🎯 Current Focus
