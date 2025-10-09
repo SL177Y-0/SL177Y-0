@@ -38,19 +38,30 @@ Enhanced **WebContainer performance** (–40% crash rate) and **memory usage opt
 
 ---
 ## Open to Collaborating 
+
 - AI-augmented **dApps** and **decentralized systems**  
 - **Full-stack web** and **LLM-integrated** applications  
 - **3D / WebGL** experiences and **data-driven UIs**  
 - **Microservices** and **high-performance backends**
+
 ---
+
 ## Expanding My Skills
+
 **Advanced AWS Cloud**, **WebGL shader pipelines**, **AI–Blockchain integrations**, **system-level distributed design**, and **data intelligence architectures**.
+
 ---
-## Let’s Talk About  
+
+## Let’s Talk About 
+
 React.js · Next.js · Node.js / NestJS · Solidity · Web3.js · AI/ML · LLM Integration · Docker · AWS · Scalable APIs · Distributed Systems · 3D Web
+
 ---
+
 ## Beyond Work  
+
 Passionate about **Arduino / Hardware**, **SEO & Digital Branding**, and crafting products that connect **technology**, **design**, and **user experience** seamlessly.
+
 ---
 
 ## Tech Arsenal
