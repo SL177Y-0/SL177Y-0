@@ -12,15 +12,12 @@
 
 ## ⚡ About Me
 
-## Working On  
+---
+## Working 
 Building **AI × Blockchain–powered ecosystems**, **3D interactive web experiences**, and fine-tuned **LLM-integrated systems** that redefine scalability and performance.  
 Focused on creating **microservices-based architectures**, integrating **AI reasoning with decentralized logic**, and designing systems that are **fast**, **intelligent**, and **future-proof**.
-
 ---
-
 ##  Recently  
-
----
 **PrimeX – AI × Blockchain Trading Protocol**  
 Architecting a **next-gen decentralized trading system** integrating **LLMs for sentiment-driven analytics**, **multi-chain smart contracts**, and **on-chain AI models** to predict and optimize liquidity behavior.
 
@@ -38,30 +35,21 @@ Designed an immersive **WebGL-powered portfolio** featuring **lazy-loaded 3D mod
 
 **CodeXero – No-Code DApp Generator**  
 Enhanced **WebContainer performance** (–40% crash rate) and **memory usage optimization** (–30%) while integrating **Ethers.js**, **RainbowKit**, and **Supabase** for fast, reliable dApp generation and deployment.
-
 ---
-
-## Open to Collaborating On  
+## Open to Collaborating 
 - AI-augmented **dApps** and **decentralized systems**  
 - **Full-stack web** and **LLM-integrated** applications  
 - **3D / WebGL** experiences and **data-driven UIs**  
 - **Microservices** and **high-performance backends**
-
 ---
-
-## Expanding My Skills In  
+## Expanding My Skills
 **Advanced AWS Cloud**, **WebGL shader pipelines**, **AI–Blockchain integrations**, **system-level distributed design**, and **data intelligence architectures**.
-
 ---
-
 ## Let’s Talk About  
 React.js · Next.js · Node.js / NestJS · Solidity · Web3.js · AI/ML · LLM Integration · Docker · AWS · Scalable APIs · Distributed Systems · 3D Web
-
 ---
-
 ## Beyond Work  
 Passionate about **Arduino / Hardware**, **SEO & Digital Branding**, and crafting products that connect **technology**, **design**, and **user experience** seamlessly.
-
 ---
 
 ## Tech Arsenal
