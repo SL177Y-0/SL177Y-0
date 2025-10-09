@@ -12,8 +12,6 @@
 
 ## ⚡ About Me
 
----
-
 ## Working 
 Building **AI × Blockchain–powered ecosystems**, **3D interactive web experiences**, and fine-tuned **LLM-integrated systems** that redefine scalability and performance.  
 Focused on creating **microservices-based architectures**, integrating **AI reasoning with decentralized logic**, and designing systems that are **fast**, **intelligent**, and **future-proof**.
