@@ -1,6 +1,6 @@
-#Rishi Rawat AKA (SL177Y)
-
 <div align="center">
+
+# Rishi Rawat AKA (SL177Y)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Blockchain+Architect;3D+Web+Innovator;AI+%2B+Web3+Builder)](https://git.io/typing-svg)
 
