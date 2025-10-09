@@ -25,7 +25,7 @@ Focused on creating **microservices-based architectures**, integrating **AI reas
 Architecting a **next-gen decentralized trading system** integrating **LLMs for sentiment-driven analytics**, **multi-chain smart contracts**, and **on-chain AI models** to predict and optimize liquidity behavior.
 
 **Quantum Node – Post-Quantum Blockchain Layer**  
-Contributed to a **quantum-resistant blockchain infrastructure** using **CRYSTALS-Dilithium**, **Kyber**, and **FALCON** encryption for next-generation cryptography and consensus security.
+Contributed to a debugging **quantum-resistant blockchain infrastructure** for next-generation cryptography and consensus security.
 
 **Aptos Contract Deployer – Backend Automation Layer**  
 Built a **Dockerized backend microservice** enabling seamless **Move smart contract compilation and deployment** via REST APIs—simplifying developer onboarding and contract lifecycle management.
