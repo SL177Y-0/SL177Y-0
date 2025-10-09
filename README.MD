@@ -20,32 +20,23 @@ Focused on creating **microservices-based architectures**, integrating **AI reas
 
 ##  Recently  
 
-### **PrimeX – AI × Blockchain Trading Protocol**  
+---
+**PrimeX – AI × Blockchain Trading Protocol**  
 Architecting a **next-gen decentralized trading system** integrating **LLMs for sentiment-driven analytics**, **multi-chain smart contracts**, and **on-chain AI models** to predict and optimize liquidity behavior.
 
----
-
-### **Quantum Node – Post-Quantum Blockchain Layer**  
+**Quantum Node – Post-Quantum Blockchain Layer**  
 Contributed to a **quantum-resistant blockchain infrastructure** using **CRYSTALS-Dilithium**, **Kyber**, and **FALCON** encryption for next-generation cryptography and consensus security.
 
----
-
-###  **Aptos Contract Deployer – Backend Automation Layer**  
+**Aptos Contract Deployer – Backend Automation Layer**  
 Built a **Dockerized backend microservice** enabling seamless **Move smart contract compilation and deployment** via REST APIs—simplifying developer onboarding and contract lifecycle management.
 
----
-
-###  **Agentic-AI – Decentralized AI Protocol**  
+**Agentic-AI – Decentralized AI Protocol**  
 Developed **AI-governed vault systems** and **reward-driven social scoring**, integrating **EVM** and **Aptos** chains with AI-powered vault logic and enhanced scoring models for dynamic on-chain reputation.
 
----
-
-###  **3D Interactive Portfolio**  
+**3D Interactive Portfolio**  
 Designed an immersive **WebGL-powered portfolio** featuring **lazy-loaded 3D models**, **Pokémon-style skill cards**, and **physics-based animations**, achieving **70% performance optimization** through model batching and deferred rendering.
 
----
-
-### **CodeXero – No-Code DApp Generator**  
+**CodeXero – No-Code DApp Generator**  
 Enhanced **WebContainer performance** (–40% crash rate) and **memory usage optimization** (–30%) while integrating **Ethers.js**, **RainbowKit**, and **Supabase** for fast, reliable dApp generation and deployment.
 
 ---
