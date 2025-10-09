@@ -1,4 +1,4 @@
-# Rishi Rawat (SL177Y)
+# Rishi Rawat AKA (SL177Y)
 
 <div align="center">
 
