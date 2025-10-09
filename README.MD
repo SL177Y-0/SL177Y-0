@@ -13,9 +13,11 @@
 ## ⚡ About Me
 
 ---
+
 ## Working 
 Building **AI × Blockchain–powered ecosystems**, **3D interactive web experiences**, and fine-tuned **LLM-integrated systems** that redefine scalability and performance.  
 Focused on creating **microservices-based architectures**, integrating **AI reasoning with decentralized logic**, and designing systems that are **fast**, **intelligent**, and **future-proof**.
+
 ---
 ##  Recently  
 **PrimeX – AI × Blockchain Trading Protocol**  
@@ -35,6 +37,7 @@ Designed an immersive **WebGL-powered portfolio** featuring **lazy-loaded 3D mod
 
 **CodeXero – No-Code DApp Generator**  
 Enhanced **WebContainer performance** (–40% crash rate) and **memory usage optimization** (–30%) while integrating **Ethers.js**, **RainbowKit**, and **Supabase** for fast, reliable dApp generation and deployment.
+
 ---
 ## Open to Collaborating 
 - AI-augmented **dApps** and **decentralized systems**  
