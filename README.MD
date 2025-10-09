@@ -16,7 +16,7 @@ I am a Full-Stack Developer and Blockchain Architect focused on building AI and 
 
 ---
 
-## Recent Projects
+## Recents
 
 **PrimeX – AI & Blockchain Trading Protocol**  
 Architected a decentralized trading system with LLM-driven sentiment analytics, multi-chain smart contracts, and on-chain AI models to optimize liquidity behavior.
@@ -38,7 +38,7 @@ Enhanced WebContainer performance (-40% crash rate) and memory usage (-30%) whil
 
 ---
 
-## Collaboration Interests
+## CollaborateOn
 
 - AI-augmented decentralized applications (dApps)  
 - Full-stack web and LLM-integrated systems  
@@ -47,19 +47,19 @@ Enhanced WebContainer performance (-40% crash rate) and memory usage (-30%) whil
 
 ---
 
-## Skills Development
+## Learning
 
 Currently focusing on advanced AWS cloud services, WebGL shader pipelines, AI-blockchain integrations, distributed system design, and data intelligence architectures.
 
 ---
 
-## Technical Expertise
+## Let's Talk 
 
 React.js · Next.js · Node.js / NestJS · Solidity · Web3.js · AI/ML · LLM Integration · Docker · AWS · Scalable APIs · Distributed Systems · 3D Web
 
 ---
 
-## Personal Interests
+## Beyond Work
 
 Passionate about hardware development (Arduino), SEO and digital branding, and creating products that integrate technology, design, and user experience seamlessly.
 
