@@ -1,70 +1,71 @@
-# 👋 Rishi Rawat aka SL177Y
+# Rishi Rawat (SL177Y)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Blockchain+Architect+%E2%9B%93;3D+Web+Innovator+%F0%9F%8C%90;AI+%2B+Web3+Builder+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Blockchain+Architect;3D+Web+Innovator;AI+%2B+Web3+Builder)](https://git.io/typing-svg)
 
-**🔗 Portfolio:** [sl177y.vercel.app](https://sl177y.vercel.app/)
+**Portfolio:** [sl177y.vercel.app](https://sl177y.vercel.app/)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About Me
 
-## Working 
-Building **AI × Blockchain–powered ecosystems**, **3D interactive web experiences**, and fine-tuned **LLM-integrated systems** that redefine scalability and performance.  
-Focused on creating **microservices-based architectures**, integrating **AI reasoning with decentralized logic**, and designing systems that are **fast**, **intelligent**, and **future-proof**.
+I am a Full-Stack Developer and Blockchain Architect focused on building AI and blockchain-powered ecosystems, 3D interactive web experiences, and LLM-integrated systems that enhance scalability and performance. My work emphasizes microservices-based architectures, AI reasoning integrated with decentralized logic, and building systems that are fast, intelligent, and future-proof.
 
 ---
-##  Recently  
-**PrimeX – AI × Blockchain Trading Protocol**  
-Architecting a **next-gen decentralized trading system** integrating **LLMs for sentiment-driven analytics**, **multi-chain smart contracts**, and **on-chain AI models** to predict and optimize liquidity behavior.
+
+## Recent Projects
+
+**PrimeX – AI & Blockchain Trading Protocol**  
+Architected a decentralized trading system with LLM-driven sentiment analytics, multi-chain smart contracts, and on-chain AI models to optimize liquidity behavior.
 
 **Quantum Node – Post-Quantum Blockchain Layer**  
-Contributed to a debugging **quantum-resistant blockchain infrastructure** for next-generation cryptography and consensus security.
+Contributed to developing a quantum-resistant blockchain infrastructure enhancing cryptography and consensus security.
 
 **Aptos Contract Deployer – Backend Automation Layer**  
-Built a **Dockerized backend microservice** enabling seamless **Move smart contract compilation and deployment** via REST APIs—simplifying developer onboarding and contract lifecycle management.
+Developed a Dockerized backend microservice for seamless Move smart contract compilation and deployment via REST APIs, simplifying developer workflows.
 
 **Agentic-AI – Decentralized AI Protocol**  
-Developed **AI-governed vault systems** and **reward-driven social scoring**, integrating **EVM** and **Aptos** chains with AI-powered vault logic and enhanced scoring models for dynamic on-chain reputation.
+Built AI-governed vault systems and reward-driven social scoring integrating EVM and Aptos chains with AI-powered logic for dynamic on-chain reputation.
 
 **3D Interactive Portfolio**  
-Designed an immersive **WebGL-powered portfolio** featuring **lazy-loaded 3D models**, **Pokémon-style skill cards**, and **physics-based animations**, achieving **70% performance optimization** through model batching and deferred rendering.
+Designed a WebGL-powered portfolio with lazy-loaded 3D models, skill cards, and physics-based animations, achieving 70% performance optimization through model batching and deferred rendering.
 
 **CodeXero – No-Code DApp Generator**  
-Enhanced **WebContainer performance** (–40% crash rate) and **memory usage optimization** (–30%) while integrating **Ethers.js**, **RainbowKit**, and **Supabase** for fast, reliable dApp generation and deployment.
-
----
-## Open to Collaborating 
-
-- AI-augmented **dApps** and **decentralized systems**  
-- **Full-stack web** and **LLM-integrated** applications  
-- **3D / WebGL** experiences and **data-driven UIs**  
-- **Microservices** and **high-performance backends**
+Enhanced WebContainer performance (-40% crash rate) and memory usage (-30%) while integrating Ethers.js, RainbowKit, and Supabase for fast and reliable dApp generation.
 
 ---
 
-## Expanding My Skills
+## Collaboration Interests
 
-**Advanced AWS Cloud**, **WebGL shader pipelines**, **AI–Blockchain integrations**, **system-level distributed design**, and **data intelligence architectures**.
+- AI-augmented decentralized applications (dApps)  
+- Full-stack web and LLM-integrated systems  
+- 3D and WebGL experiences with data-driven UIs  
+- Microservices and high-performance backends
 
 ---
 
-## Let’s Talk About 
+## Skills Development
+
+Currently focusing on advanced AWS cloud services, WebGL shader pipelines, AI-blockchain integrations, distributed system design, and data intelligence architectures.
+
+---
+
+## Technical Expertise
 
 React.js · Next.js · Node.js / NestJS · Solidity · Web3.js · AI/ML · LLM Integration · Docker · AWS · Scalable APIs · Distributed Systems · 3D Web
 
 ---
 
-## Beyond Work  
+## Personal Interests
 
-Passionate about **Arduino / Hardware**, **SEO & Digital Branding**, and crafting products that connect **technology**, **design**, and **user experience** seamlessly.
+Passionate about hardware development (Arduino), SEO and digital branding, and creating products that integrate technology, design, and user experience seamlessly.
 
 ---
 
-## Tech Arsenal
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -93,21 +94,23 @@ Passionate about **Arduino / Hardware**, **SEO & Digital Branding**, and craftin
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![WebContainer](https://img.shields.io/badge/WebContainer-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ---
+
 ## Current Focus
 
 ```typescript
 const currentFocus = {
   learning: ["Advanced AWS Services", "WebGL Shaders", "AI Model Training"],
-  building: ["AI × Blockchain DApps", "3D Web Experiences", "Microservices"],
+  building: ["AI & Blockchain DApps", "3D Web Experiences", "Microservices"],
   exploring: ["WebAssembly", "Edge Computing"],
   collaborating: ["Open Source Contribution", "Startup MVPs"]
 }
+
 ```
 
 ---
