@@ -12,27 +12,68 @@
 
 ## ⚡ About Me
 
-🌌 **Currently working on:**  
-Building **AI × Blockchain** integrated applications, **3D interactive web experiences**, fine-tuning LLM outputs, and designing **microservices-based architectures** for scalable systems.
-
-🚀 **Recent Achievement:**  
-Created a **3D Interactive Portfolio** , featuring lazy-loaded 3D models, Pokémon-inspired skill cards, and 70% performance optimization.
-
-🤝 **Open to collaborating on:**  
-Full-stack web applications, **decentralized platforms (dApps)**, **AI-driven products**, 3D web experiences, and high-performance backend systems.
-
-🌱 **Expanding my skills in:**  
-Advanced **AWS cloud services**, **WebGL shaders**, **data analytics pipelines**, and next-gen **Blockchain × AI** integrations.
-
-💬 **Let's talk about:**  
-React.js/Next.js · Node.js/NestJS · Three.js · Solidity · Web3 · AI/ML · Scalable APIs · Distributed Systems · 3D Web Development
-
-⚡ **Beyond work:**  
-Passionate about **UI/UX design**, hardware expertise, SEO & digital branding, bridging **product, tech, and user experience** seamlessly.
+## Working On  
+Building **AI × Blockchain–powered ecosystems**, **3D interactive web experiences**, and fine-tuned **LLM-integrated systems** that redefine scalability and performance.  
+Focused on creating **microservices-based architectures**, integrating **AI reasoning with decentralized logic**, and designing systems that are **fast**, **intelligent**, and **future-proof**.
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Recently  
+
+### **PrimeX – AI × Blockchain Trading Protocol**  
+Architecting a **next-gen decentralized trading system** integrating **LLMs for sentiment-driven analytics**, **multi-chain smart contracts**, and **on-chain AI models** to predict and optimize liquidity behavior.
+
+---
+
+### **Quantum Node – Post-Quantum Blockchain Layer**  
+Contributed to a **quantum-resistant blockchain infrastructure** using **CRYSTALS-Dilithium**, **Kyber**, and **FALCON** encryption for next-generation cryptography and consensus security.
+
+---
+
+###  **Aptos Contract Deployer – Backend Automation Layer**  
+Built a **Dockerized backend microservice** enabling seamless **Move smart contract compilation and deployment** via REST APIs—simplifying developer onboarding and contract lifecycle management.
+
+---
+
+###  **Agentic-AI – Decentralized AI Protocol**  
+Developed **AI-governed vault systems** and **reward-driven social scoring**, integrating **EVM** and **Aptos** chains with AI-powered vault logic and enhanced scoring models for dynamic on-chain reputation.
+
+---
+
+###  **3D Interactive Portfolio**  
+Designed an immersive **WebGL-powered portfolio** featuring **lazy-loaded 3D models**, **Pokémon-style skill cards**, and **physics-based animations**, achieving **70% performance optimization** through model batching and deferred rendering.
+
+---
+
+### **CodeXero – No-Code DApp Generator**  
+Enhanced **WebContainer performance** (–40% crash rate) and **memory usage optimization** (–30%) while integrating **Ethers.js**, **RainbowKit**, and **Supabase** for fast, reliable dApp generation and deployment.
+
+---
+
+## Open to Collaborating On  
+- AI-augmented **dApps** and **decentralized systems**  
+- **Full-stack web** and **LLM-integrated** applications  
+- **3D / WebGL** experiences and **data-driven UIs**  
+- **Microservices** and **high-performance backends**
+
+---
+
+## Expanding My Skills In  
+**Advanced AWS Cloud**, **WebGL shader pipelines**, **AI–Blockchain integrations**, **system-level distributed design**, and **data intelligence architectures**.
+
+---
+
+## Let’s Talk About  
+React.js · Next.js · Node.js / NestJS · Solidity · Web3.js · AI/ML · LLM Integration · Docker · AWS · Scalable APIs · Distributed Systems · 3D Web
+
+---
+
+## Beyond Work  
+Passionate about **Arduino / Hardware**, **SEO & Digital Branding**, and crafting products that connect **technology**, **design**, and **user experience** seamlessly.
+
+---
+
+## Tech Arsenal
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -67,7 +108,7 @@ Passionate about **UI/UX design**, hardware expertise, SEO & digital branding, b
 ![WebContainer](https://img.shields.io/badge/WebContainer-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ---
-## 🎯 Current Focus
+## Current Focus
 
 ```typescript
 const currentFocus = {
@@ -80,7 +121,7 @@ const currentFocus = {
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
