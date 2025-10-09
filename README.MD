@@ -38,7 +38,7 @@ Enhanced WebContainer performance (-40% crash rate) and memory usage (-30%) whil
 
 ---
 
-## CollaborateOn
+## Collaborate On
 
 - AI-augmented decentralized applications (dApps)  
 - Full-stack web and LLM-integrated systems  
