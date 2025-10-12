@@ -19,7 +19,7 @@ I am a Full-Stack Developer and Blockchain Architect focused on building AI and 
 ## Recents
 
 **PrimeX – AI & Blockchain Trading Protocol**  
-Architected a decentralized trading system with LLM-driven sentiment analytics, multi-chain smart contracts, and on-chain AI models to optimize liquidity behavior.
+PrismX is a production-grade decentralized finance trading platform engineered specifically for the Aptos blockchain ecosystem.The platform synthesizes critical DeFi primitives into a unified trading interface: leveraged perpetual futures via Merkle Trade, automated market making through Panora Exchange, liquid staking via Amnis Finance, and professional-grade wallet connectivity with persistent session management. Every architectural decision prioritizes security, performance, type safety, and developer experience.
 
 **Quantum Node – Post-Quantum Blockchain Layer**  
 Contributed to developing a quantum-resistant blockchain infrastructure enhancing cryptography and consensus security.
