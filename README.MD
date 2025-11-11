@@ -14,29 +14,7 @@
 ## About Me
 
 I am a Full-Stack Developer and Blockchain Architect focused on building AI and blockchain-powered ecosystems, 3D interactive web experiences, and LLM-integrated systems that enhance scalability and performance. My work emphasizes microservices-based architectures, AI reasoning integrated with decentralized logic, and building systems that are fast, intelligent, and future-proof.
-
----
-
-## Recents
-
-**PrimeX – AI & Blockchain Trading Protocol**  
-PrismX is a production-grade decentralized finance trading platform engineered specifically for the Aptos blockchain ecosystem.The platform synthesizes critical DeFi primitives into a unified trading interface: leveraged perpetual futures via Merkle Trade, automated market making through Panora Exchange, liquid staking via Amnis Finance, and professional-grade wallet connectivity with persistent session management. Every architectural decision prioritizes security, performance, type safety, and developer experience.
-
-**Quantum Node – Post-Quantum Blockchain Layer**  
-Contributed to developing a quantum-resistant blockchain infrastructure enhancing cryptography and consensus security.
-
-**Aptos Contract Deployer – Backend Automation Layer**  
-Developed a Dockerized backend microservice for seamless Move smart contract compilation and deployment via REST APIs, simplifying developer workflows.
-
-**Agentic-AI – Decentralized AI Protocol**  
-Built AI-governed vault systems and reward-driven social scoring integrating EVM and Aptos chains with AI-powered logic for dynamic on-chain reputation.
-
-**3D Interactive Portfolio**  
-Designed a WebGL-powered portfolio with lazy-loaded 3D models, skill cards, and physics-based animations, achieving 70% performance optimization through model batching and deferred rendering.
-
-**CodeXero – No-Code DApp Generator**  
-Enhanced WebContainer performance (-40% crash rate) and memory usage (-30%) while integrating Ethers.js, RainbowKit, and Supabase for fast and reliable dApp generation.
-
+ 
 ---
 
 ## Collaborate On
