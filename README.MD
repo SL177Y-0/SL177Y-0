@@ -11,9 +11,9 @@
 
 ---
 
-<img align="right" src="https://github.com/SL177Y-0.png" height="90" />
 
-## 🚀 About Me  
+
+##  About Me  
 I build **AI-driven, blockchain-powered, high-performance systems** with a specialization in:
 
 - Distributed microservices  
