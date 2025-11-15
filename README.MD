@@ -1,17 +1,17 @@
 <div align="center">
 
 # ⚡ Rishi Rawat (SL177Y)
-### Full-Stack Engineer • Blockchain Architect • AI + Web3 Builder • 3D Web Innovator
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Web3+Ecosystems;Designing+Scalable+Distributed+Systems;Creating+3D+Interactive+Web+Experiences;Innovating+with+Blockchain+%2B+Cloud)](https://git.io/typing-svg)
 
-### 🌐 Portfolio → **https://sl177y.vercel.app**
+###  Portfolio → **https://sl177y.vercel.app**
 
 </div>
 
 ---
 
-<img align="right" src="https://github.com/SL177Y-0.png" height="180" />
+<img align="right" src="https://github.com/SL177Y-0.png" height="90" />
 
 ## 🚀 About Me  
 I build **AI-driven, blockchain-powered, high-performance systems** with a specialization in:
