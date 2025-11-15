@@ -45,7 +45,7 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 # 🔥 Tech Stack
 
-## Core Languages
+## 🔥 Core Languages
 <div align="center">
 
 | | | |
@@ -57,7 +57,7 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 </div>
 
 
-## Frontend
+## 🔥 Frontend
 <div align="center">
 
 | | | |
@@ -70,7 +70,7 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 
 
-## Backend & APIs
+## 🔥 Backend & APIs
 <div align="center">
 
 | | | |
@@ -83,7 +83,7 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 
 
-## Databases & Storage
+## 🔥 Databases & Storage
 <div align="center">
 
 | | | |
@@ -96,7 +96,7 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 
 
-##  DevOps / Cloud
+## 🔥 DevOps / Cloud
 <div align="center">
 
 | | | |
@@ -109,7 +109,7 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 
 
-## Blockchain / Web3
+## 🔥 Blockchain / Web3
 <div align="center">
 
 | | | |
@@ -122,7 +122,7 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 
 
-## AI / Automation / Agents
+## 🔥 AI / Automation / Agents
 <div align="center">
 
 | | | |
@@ -147,7 +147,7 @@ const currentFocus = {
 
 ```
 
-## Let's Connect
+## 🔥 Let's Connect
 
 <div align="center">
 
