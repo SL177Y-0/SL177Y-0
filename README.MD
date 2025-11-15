@@ -1,20 +1,18 @@
-<div align="center">
-
 # ⚡ Rishi Rawat (SL177Y) ⚡
 
-### ⚡ Ideate → Code → Ship → Deploy ⚡
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Web3+Ecosystems;Designing+Scalable+Distributed+Systems;Creating+3D+Interactive+Web+Experiences;Innovating+with+Blockchain+%2B+Cloud)](https://git.io/typing-svg)
 
-###  Portfolio → **https://sl177y.vercel.app**
+### ⚡ Ideate → Code → Ship → Deploy ⚡
+
+### Portfolio → **https://sl177y.vercel.app**
 
 </div>
 
----
 
 
-
-## 🔥 About Me  
+## 🔥 About Me
 I build **AI-driven, blockchain-powered, high-performance systems** with a specialization in:
 
 - Distributed microservices  
@@ -26,117 +24,117 @@ I build **AI-driven, blockchain-powered, high-performance systems** with a speci
 
 My goal is to **engineer futuristic, intelligent, and scalable digital ecosystems**.
 
----
 
-## 🔥 What I Build  
+
+## 🔥 What I Build
 - AI-Augmented **decentralized applications (dApps)**  
 - High-performance **full-stack & microservice platforms**  
 - LLM-integrated real-time systems  
 - WebGL/Three.js-powered **3D experiences**  
 - Blockchain architecture & token economies  
 
----
 
-## 🔥 Currently Learning  
+
+## 🔥 Currently Learning
 - Advanced **AWS** (Lambda, EKS, EventBridge, CDK)  
 - **WebGL shaders** & rendering pipelines  
 - **Distributed systems** + edge computing  
 - **AI–Blockchain fusion** architectures  
 
----
-
-## 🔥 Tech Stack
-
-### **Core Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/MarioTerron/logo-devicon/master/devicon/move-original.svg" width="40"/>
-</p>
-
----
-
-### **Frontend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/>
-</p>
-
----
-
-### **Backend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-</p>
-
----
-
-### **Databases**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-plain.svg" width="40"/>
-</p>
-
----
-
-### **APIs & Testing**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/>
-</p>
-
----
-
-### **DevOps / Cloud**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/84805098?s=200&v=4" width="40"/> <!-- WebContainer -->
-</p>
-
----
-
-### **Blockchain**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethers/ethers-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/108554348?s=200&v=4" width="40"/> <!-- Aptos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tron/tron-original.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/60435382?s=200&v=4" width="40"/> <!-- SEI -->
-</p>
-
----
-
-### **AI / Automation**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <!-- for AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/> <!-- HuggingFace -->
-  <img src="https://avatars.githubusercontent.com/u/103510430?s=200&v=4" width="40"/> <!-- N8N -->
-</p>
 
 
----
+# 🔥 Tech Stack
+
+## Core Languages
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.simpleicons.org/javascript" width="40"/> <br> **JavaScript** | <img src="https://cdn.simpleicons.org/typescript" width="40"/> <br> **TypeScript** | <img src="/logo/python.png" width="40"/> <br> **Python** |
+| <img src="/logo/rust.png" width="40"/> <br> **Rust** | <img src="https://cdn.simpleicons.org/solidity" width="40"/> <br> **Solidity** | <img src="/move.png" width="40"/> <br> **Move** |
+| <img src="https://cdn.simpleicons.org/gnubash" width="40"/> <br> **Bash** |  |  |
+
+</div>
+
+
+## Frontend
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.simpleicons.org/react" width="40"/> <br> **React** | <img src="https://cdn.simpleicons.org/nextdotjs" width="40"/> <br> **Next.js** | <img src="/logo/native.png" width="40"/> <br> **React Native** |
+| <img src="https://cdn.simpleicons.org/html5" width="40"/> <br> **HTML5** | <img src="https://cdn.simpleicons.org/css3" width="40"/> <br> **CSS3** | <img src="https://cdn.simpleicons.org/tailwindcss" width="40"/> <br> **TailwindCSS** |
+| <img src="https://cdn.simpleicons.org/vite" width="40"/> <br> **Vite** | <img src="/logo/threejs.png" width="40"/> <br> **Three.js** | <img src="https://cdn.simpleicons.org/webgl" width="40"/> <br> **WebGL** |
+
+</div>
+
+
+
+## Backend & APIs
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.simpleicons.org/nodedotjs" width="40"/> <br> **Node.js** | <img src="https://cdn.simpleicons.org/express" width="40"/> <br> **Express** | <img src="https://cdn.simpleicons.org/nestjs" width="40"/> <br> **NestJS** |
+| <img src="https://cdn.simpleicons.org/fastapi" width="40"/> <br> **FastAPI** | <img src="https://cdn.simpleicons.org/socketdotio" width="40"/> <br> **Socket.io** | <img src="https://cdn.simpleicons.org/graphql" width="40"/> <br> **GraphQL** |
+| <img src="/logo/websocket.png" width="40"/> <br> **WebSocket** | <img src="https://cdn.simpleicons.org/trpc" width="40"/> <br> **tRPC** | |
+
+</div>
+
+
+
+## Databases & Storage
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.simpleicons.org/mongodb" width="40"/> <br> **MongoDB** | <img src="https://cdn.simpleicons.org/mysql" width="40"/> <br> **MySQL** | <img src="https://cdn.simpleicons.org/postgresql" width="40"/> <br> **PostgreSQL** |
+| <img src="/logo/dynamodb.png" width="40"/> <br> **DynamoDB** | <img src="https://cdn.simpleicons.org/redis" width="40"/> <br> **Redis** | <img src="https://cdn.simpleicons.org/prisma" width="40"/> <br> **Prisma** |
+| <img src="https://cdn.simpleicons.org/ipfs" width="40"/> <br> **IPFS** |  |  |
+
+</div>
+
+
+
+##  DevOps / Cloud
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="/logo/aws.png" width="40"/> <br> **AWS** | <img src="https://cdn.simpleicons.org/docker" width="40"/> <br> **Docker** | <img src="https://cdn.simpleicons.org/kubernetes" width="40"/> <br> **Kubernetes** |
+| <img src="https://cdn.simpleicons.org/githubactions" width="40"/> <br> **GitHub Actions** | <img src="httpscdn.simpleicons.org/git" width="40"/> <br> **Git** | <img src="https://cdn.simpleicons.org/linux" width="40"/> <br> **Linux** |
+| <img src="https://cdn.simpleicons.org/terraform" width="40"/> <br> **Terraform** | | |
+
+</div>
+
+
+
+## Blockchain / Web3
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.simpleicons.org/ethereum" width="40"/> <br> **Ethereum** | <img src="/logo/hardhat.png" width="40"/> <br> **Hardhat** | <img src="/logo/foundry.png" width="40"/> <br> **Foundry** |
+| <img src="/logo/Aptos.png" width="40"/> <br> **Aptos** | <img src="/logo/sei.png" width="40"/> <br> **SEI** | <img src="/logo/tron.svg" width="40"/> <br> **Tron** |
+| <img src="/logo/monad.png" width="40"/> <br> **Monad** | <img src="/logo/graph.png" width="40"/> <br> **The Graph** | <img src="/logo/Akash.png" width="40"/> <br> **Akash** |
+
+</div>
+
+
+
+## AI / Automation / Agents
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.simpleicons.org/tensorflow" width="40"/> <br> **TensorFlow** | <img src="https://cdn.simpleicons.org/huggingface" width="40"/> <br> **HuggingFace** | <img src="https://cdn.simpleicons.org/openai" width="40"/> <br> **OpenAI** |
+| <img src="/logo/llamaindex.png" width="40"/> <br> **LlamaIndex** | <img src="/logo/LLAVA.png" width="40"/> <br> **LLaVA** | <img src="https://cdn.simpleicons.org/crewai" width="40"/> <br> **CrewAI** |
+| <img src="/logo/weaviate.png" width="40"/> <br> **Weaviate** | <img src="/logo/pinecone.svg" width="40"/> <br> **Pinecone** | <img src="https://cdn.simpleicons.org/n8n" width="40"/> <br> **n8n** |
+
+</div>
+
+
+
 
 ## 🔥 Current Focus
 
@@ -146,12 +144,7 @@ const currentFocus = {
   building: ["AI + Blockchain DApps", "3D Web Ecosystems", "Microservices"],
   exploring: ["WebAssembly", "Edge Computing"],
   collaborating: ["Open Source", "High-impact MVPs"]
-}
 
-
-```
-
----
 
 ## Let's Connect
 
@@ -166,5 +159,4 @@ const currentFocus = {
 
 </div>
 
----
 
