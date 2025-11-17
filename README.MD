@@ -1,6 +1,7 @@
-# ⚡ Rishi Rawat (SL177Y) ⚡
 
 <div align="center">
+
+# ⚡ Rishi Rawat (SL177Y) ⚡
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Web3+Ecosystems;Designing+Scalable+Distributed+Systems;Creating+3D+Interactive+Web+Experiences;Innovating+with+Blockchain+%2B+Cloud)](https://git.io/typing-svg)
 
