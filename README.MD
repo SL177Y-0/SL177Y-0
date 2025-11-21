@@ -48,19 +48,26 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 <div align="center">
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/javascript" width="40"/><br>**JavaScript** | <img src="https://cdn.simpleicons.org/typescript" width="40"/><br>**TypeScript** | <img src="/logo/Python.png" width="40"/><br>**Python** | <img src="/logo/rust.png" width="40"/><br>**Rust** | <img src="https://cdn.simpleicons.org/solidity" width="40"/><br>**Solidity** | <img src="/move.png" width="40"/><br>**Move** | <img src="https://cdn.simpleicons.org/gnubash" width="40"/><br>**Bash** |
-| <img src="https://cdn.simpleicons.org/react" width="40"/><br>**React** | <img src="https://cdn.simpleicons.org/nextdotjs" width="40"/><br>**Next.js** | <img src="/logo/native.png" width="40"/><br>**React Native** | <img src="https://cdn.simpleicons.org/html5" width="40"/><br>**HTML5** | <img src="/logo/css.png" width="40"/><br>**CSS3** | <img src="https://cdn.simpleicons.org/tailwindcss" width="40"/><br>**TailwindCSS** | <img src="https://cdn.simpleicons.org/vite" width="40"/><br>**Vite** |
-| <img src="/logo/threejs.png" width="40"/><br>**Three.js** | <img src="https://cdn.simpleicons.org/webgl" width="40"/><br>**WebGL** | <img src="https://cdn.simpleicons.org/nodedotjs" width="40"/><br>**Node.js** | <img src="https://cdn.simpleicons.org/express" width="40"/><br>**Express** | <img src="https://cdn.simpleicons.org/nestjs" width="40"/><br>**NestJS** | <img src="https://cdn.simpleicons.org/fastapi" width="40"/><br>**FastAPI** | <img src="https://cdn.simpleicons.org/socketdotio" width="40"/><br>**Socket.io** |
-| <img src="https://cdn.simpleicons.org/graphql" width="40"/><br>**GraphQL** | <img src="/logo/websocket.png" width="40"/><br>**WebSocket** | <img src="https://cdn.simpleicons.org/trpc" width="40"/><br>**tRPC** | <img src="https://cdn.simpleicons.org/mongodb" width="40"/><br>**MongoDB** | <img src="https://cdn.simpleicons.org/mysql" width="40"/><br>**MySQL** | <img src="https://cdn.simpleicons.org/postgresql" width="40"/><br>**PostgreSQL** | <img src="/logo/dynamodb.png" width="40"/><br>**DynamoDB** |
-| <img src="https://cdn.simpleicons.org/redis" width="40"/><br>**Redis** | <img src="https://cdn.simpleicons.org/prisma" width="40"/><br>**Prisma** | <img src="https://cdn.simpleicons.org/ipfs" width="40"/><br>**IPFS** | <img src="/logo/aws.png" width="40"/><br>**AWS** | <img src="https://cdn.simpleicons.org/docker" width="40"/><br>**Docker** | <img src="https://cdn.simpleicons.org/kubernetes" width="40"/><br>**Kubernetes** | <img src="https://cdn.simpleicons.org/githubactions" width="40"/><br>**GitHub Actions** |
-| <img src="https://cdn.simpleicons.org/git" width="40"/><br>**Git** | <img src="https://cdn.simpleicons.org/linux" width="40"/><br>**Linux** | <img src="https://cdn.simpleicons.org/terraform" width="40"/><br>**Terraform** | <img src="https://cdn.simpleicons.org/ethereum" width="40"/><br>**Ethereum** | <img src="/logo/hardhat.png" width="40"/><br>**Hardhat** | <img src="/logo/foundry.png" width="40"/><br>**Foundry** | <img src="/logo/Aptos.png" width="40"/><br>**Aptos** |
-| <img src="/logo/sei.png" width="40"/><br>**SEI** | <img src="/logo/tron.svg" width="40"/><br>**Tron** | <img src="/logo/monad.png" width="40"/><br>**Monad** | <img src="/logo/graph.png" width="40"/><br>**The Graph** | <img src="/logo/Akash.png" width="40"/><br>**Akash** | <img src="https://cdn.simpleicons.org/tensorflow" width="40"/><br>**TensorFlow** | <img src="https://cdn.simpleicons.org/huggingface" width="40"/><br>**HuggingFace** |
-| <img src="https://cdn.simpleicons.org/openai" width="40"/><br>**OpenAI** | <img src="/logo/llamaindex.png" width="40"/><br>**LlamaIndex** | <img src="/logo/LLAVA.png" width="40"/><br>**LLaVA** | <img src="https://cdn.simpleicons.org/crewai" width="40"/><br>**CrewAI** | <img src="/logo/weavite.png" width="40"/><br>**Weaviate** | <img src="/logo/pinecone.svg" width="40"/><br>**Pinecone** | <img src="https://cdn.simpleicons.org/n8n" width="40"/><br>**n8n** |
+| | | | | | |
+|---|---|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/typescript" width="48"/><br>**TypeScript** | <img src="/logo/Python.png" width="48"/><br>**Python** | <img src="/logo/rust.png" width="48"/><br>**Rust** | <img src="https://cdn.simpleicons.org/solidity" width="48"/><br>**Solidity** | <img src="/move.png" width="48"/><br>**Move** | <img src="https://cdn.simpleicons.org/gnubash" width="48"/><br>**Bash** |
+
+| <img src="https://cdn.simpleicons.org/react" width="48"/><br>**React** | <img src="https://cdn.simpleicons.org/nextdotjs" width="48"/><br>**Next.js** | <img src="/logo/native.png" width="48"/><br>**React Native** | <img src="https://cdn.simpleicons.org/tailwindcss" width="48"/><br>**TailwindCSS** | <img src="https://cdn.simpleicons.org/vite" width="48"/><br>**Vite** | <img src="/logo/threejs.png" width="48"/><br>**Three.js** |
+
+| <img src="https://cdn.simpleicons.org/nodedotjs" width="48"/><br>**Node.js** | <img src="https://cdn.simpleicons.org/nestjs" width="48"/><br>**NestJS** | <img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>**FastAPI** | <img src="https://cdn.simpleicons.org/trpc" width="48"/><br>**tRPC** | <img src="https://cdn.simpleicons.org/socketdotio" width="48"/><br>**Socket.io** | <img src="https://cdn.simpleicons.org/graphql" width="48"/><br>**GraphQL** |
+
+| <img src="https://cdn.simpleicons.org/postgresql" width="48"/><br>**PostgreSQL** | <img src="https://cdn.simpleicons.org/mysql" width="48"/><br>**MySQL** | <img src="https://cdn.simpleicons.org/mongodb" width="48"/><br>**MongoDB** | <img src="/logo/dynamodb.png" width="48"/><br>**DynamoDB** | <img src="https://cdn.simpleicons.org/redis" width="48"/><br>**Redis** | <img src="https://cdn.simpleicons.org/prisma" width="48"/><br>**Prisma** |
+
+| <img src="https://cdn.simpleicons.org/docker" width="48"/><br>**Docker** | <img src="https://cdn.simpleicons.org/kubernetes" width="48"/><br>**Kubernetes** | <img src="https://cdn.simpleicons.org/githubactions" width="48"/><br>**GitHub Actions** | <img src="https://cdn.simpleicons.org/terraform" width="48"/><br>**Terraform** | <img src="https://cdn.simpleicons.org/ipfs" width="48"/><br>**IPFS** |
+
+<!-- Web3 / Blockchain -->
+| <img src="https://cdn.simpleicons.org/ethereum" width="48"/><br>**Ethereum** | <img src="/logo/Aptos.png" width="48"/><br>**Aptos** | <img src="/logo/tron.svg" width="48"/><br>**Tron** | <img src="/logo/sei.png" width="48"/><br>**Sei** | <img src="/logo/hardhat.png" width="48"/><br>**Hardhat** | <img src="/logo/foundry.png" width="48"/><br>**Foundry** |
+
+<!-- AI / LLM Stack -->
+| <img src="https://cdn.simpleicons.org/huggingface" width="48"/><br>**Hugging Face** | <img src="/logo/LLAVA.png" width="48"/><br>**LLaVA** | <img src="https://cdn.simpleicons.org/openai" width="48"/><br>**OpenAI** | <img src="/logo/pinecone.svg" width="48"/><br>**Pinecone** | <img src="/logo/weavite.png" width="48"/><br>**Weaviate** | <img src="/logo/llamaindex.png" width="48"/><br>**LlamaIndex** |
+| <img src="https://cdn.simpleicons.org/crewai" width="48"/><br>**CrewAI** | <img src="https://cdn.simpleicons.org/n8n" width="48"/><br>**n8n** | <img src="https://cdn.simpleicons.org/tensorflow" width="48"/><br>**TensorFlow** |
 
 </div>
-
 
 
 ## 🔥 Current Focus
