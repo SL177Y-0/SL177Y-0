@@ -46,18 +46,66 @@ My goal is to **engineer futuristic, intelligent, and scalable digital ecosystem
 
 # 🔥 Tech Stack
 
-
 <div align="center">
 
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/typescript" width="48"/><br>**TypeScript** | <img src="https://cdn.simpleicons.org/python" width="48"/><br>**Python** | <img src="https://cdn.simpleicons.org/rust" width="48"/><br>**Rust** | <img src="https://cdn.simpleicons.org/solidity" width="48"/><br>**Solidity** | <img src="https://cdn.simpleicons.org/move" width="48"/><br>**Move** | <img src="https://cdn.simpleicons.org/gnubash" width="48"/><br>**Bash** |
-| <img src="https://cdn.simpleicons.org/react" width="48"/><br>**React** | <img src="https://cdn.simpleicons.org/nextdotjs" width="48"/><br>**Next.js** | <img src="https://cdn.simpleicons.org/react" width="48"/><br>**React Native** | <img src="https://cdn.simpleicons.org/tailwindcss" width="48"/><br>**TailwindCSS** | <img src="https://cdn.simpleicons.org/vite" width="48"/><br>**Vite** | <img src="https://cdn.simpleicons.org/threejs" width="48"/><br>**Three.js** |
-| <img src="https://cdn.simpleicons.org/nodedotjs" width="48"/><br>**Node.js** | <img src="https://cdn.simpleicons.org/nestjs" width="48"/><br>**NestJS** | <img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>**FastAPI** | <img src="https://cdn.simpleicons.org/trpc" width="48"/><br>**tRPC** | <img src="https://cdn.simpleicons.org/socketdotio" width="48"/><br>**Socket.io** | <img src="https://cdn.simpleicons.org/graphql" width="48"/><br>**GraphQL** |
-| <img src="https://cdn.simpleicons.org/postgresql" width="48"/><br>**PostgreSQL** | <img src="https://cdn.simpleicons.org/mysql" width="48"/><br>**MySQL** | <img src="https://cdn.simpleicons.org/mongodb" width="48"/><br>**MongoDB** | <img src="https://cdn.simpleicons.org/dynamodb" width="48"/><br>**DynamoDB** | <img src="https://cdn.simpleicons.org/redis" width="48"/><br>**Redis** | <img src="https://cdn.simpleicons.org/prisma" width="48"/><br>**Prisma** |
-| <img src="https://cdn.simpleicons.org/docker" width="48"/><br>**Docker** | <img src="https://cdn.simpleicons.org/kubernetes" width="48"/><br>**Kubernetes** | <img src="https://cdn.simpleicons.org/githubactions" width="48"/><br>**GitHub Actions** | <img src="https://cdn.simpleicons.org/terraform" width="48"/><br>**Terraform** | <img src="https://cdn.simpleicons.org/ipfs" width="48"/><br>**IPFS** | <img src="https://cdn.simpleicons.org/ethereum" width="48"/><br>**Ethereum** |
-| <img src="https://cdn.simpleicons.org/huggingface" width="48"/><br>**Hugging Face** | <img src="https://cdn.simpleicons.org/openai" width="48"/><br>**OpenAI** | <img src="https://cdn.simpleicons.org/pinecone" width="48"/><br>**Pinecone** | <img src="https://cdn.simpleicons.org/weaviate" width="48"/><br>**Weaviate** | <img src="https://cdn.simpleicons.org/llamaindex" width="48"/><br>**LlamaIndex** | <img src="https://cdn.simpleicons.org/crewai" width="48"/><br>**CrewAI** |
-| <img src="https://cdn.simpleicons.org/n8n" width="48"/><br>**n8n** | <img src="https://cdn.simpleicons.org/tensorflow" width="48"/><br>**TensorFlow** | <img width="48"/><br>**Aptos** | <img width="48"/><br>**Tron** | <img width="48"/><br>**Sei** | <img src="https://cdn.simpleicons.org/hardhat" width="48"/><br>**Hardhat / Foundry** |
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/typescript" width="55"/><br><b>TypeScript</b></td>
+    <td align="center"><img src="/logo/Python.png" width="55"/><br><b>Python</b></td>
+    <td align="center"><img src="/logo/rust.png" width="55"/><br><b>Rust</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/solidity" width="55"/><br><b>Solidity</b></td>
+    <td align="center"><img src="/move.png" width="55"/><br><b>Move</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/gnubash" width="55"/><br><b>Bash</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/react" width="55"/><br><b>React</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs" width="55"/><br><b>Next.js</b></td>
+    <td align="center"><img src="/logo/native.png" width="55"/><br><b>React Native</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss" width="55"/><br><b>TailwindCSS</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vite" width="55"/><br><b>Vite</b></td>
+    <td align="center"><img src="/logo/threejs.png" width="55"/><br><b>Three.js</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs" width="55"/><br><b>Node.js</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nestjs" width="55"/><br><b>NestJS</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/fastapi" width="55"/><br><b>FastAPI</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/trpc" width="55"/><br><b>tRPC</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/socketdotio" width="55"/><br><b>Socket.io</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/graphql" width="55"/><br><b>GraphQL</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/postgresql" width="55"/><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mysql" width="55"/><br><b>MySQL</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mongodb" width="55"/><br><b>MongoDB</b></td>
+    <td align="center"><img src="/logo/dynamodb.png" width="55"/><br><b>DynamoDB</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/redis" width="55"/><br><b>Redis</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/prisma" width="55"/><br><b>Prisma</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker" width="55"/><br><b>Docker</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/kubernetes" width="55"/><br><b>Kubernetes</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/githubactions" width="55"/><br><b>GitHub Actions</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/terraform" width="55"/><br><b>Terraform</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/ipfs" width="55"/><br><b>IPFS</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/ethereum" width="55"/><br><b>Ethereum</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/logo/Aptos.png" width="55"/><br><b>Aptos</b></td>
+    <td align="center"><img src="/logo/tron.svg" width="55"/><br><b>Tron</b></td>
+    <td align="center"><img src="/logo/sei.png" width="55"/><br><b>Sei</b></td>
+    <td align="center"><img src="/logo/hardhat.png" width="55"/><br><b>Hardhat</b></td>
+    <td align="center"><img src="/logo/foundry.png" width="55"/><br><b>Foundry</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/huggingface" width="55"/><br><b>Hugging Face</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/logo/LLAVA.png" width="55"/><br><b>LLaVA</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai" width="55"/><br><b>OpenAI</b></td>
+    <td align="center"><img src="/logo/pinecone.svg" width="55"/><br><b>Pinecone</b></td>
+    <td align="center"><img src="/logo/weavite.png" width="55"/><br><b>Weaviate</b></td>
+    <td align="center"><img src="/logo/llamaindex.png" width="55"/><br><b>LlamaIndex</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/crewai" width="55"/><br><b>CrewAI</b></td>
+  </tr>
+</table>
 
 </div>
 
