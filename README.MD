@@ -1,16 +1,32 @@
 <div align="center">
 # ⚡ Rishi Rawat (SL177Y) ⚡
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Web3+Ecosystems;Designing+Scalable+Distributed+Systems;Creating+3D+Interactive+Web+Experiences;Innovating+with+Blockchain+%2B+Cloud)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com
+?font=Fira+Code
+&weight=600
+&size=26
+&pause=1000
+&color=00E8FF
+&center=true
+&vCenter=true
+&width=900
+&lines=Engineering+Scalable+High-Performance+Systems;AI+Automation+%2B+Blockchain+Engineering;Full-Stack+Development+with+Data+Analytics;Building+Production-Ready+End-to-End+Platforms;Architecting+Reliable+Distributed+Systems)]()
+
 ### ⚡ Ideate → Code → Ship → Deploy ⚡
 ### Portfolio → **https://sl177y.vercel.app**
+
 </div>
 
 ## 🔥 About Me
-Versatile Technology Analyst and Engineer with a BCA in Data Science, specializing in full-stack development, AI integration, blockchain solutions, data analytics, systems operations, and platform management. I engineer scalable, high-performance applications that deliver real-world impact through innovative, production-ready systems.
+Versatile **Analyst & Engineer** with a Bachelors in Data Science, working across:
 
-My expertise includes JavaScript/TypeScript, React.js/Next.js, Node.js/NestJS, Express.js, MongoDB/MySQL, Solidity, Ethers.js, SUI, Aptos, Rust, LLM integration, SQL, Python, Power BI/Excel for reporting, and workflow tools like n8n. I emphasize precision, scalability, data-driven insights, system reliability, and governance in my work.
+- Full-stack development  
+- AI/LLM automation  
+- Blockchain engineering  
+- Data analytics & reporting  
+- Systems operations & governance  
 
-Driven by an end-to-end ownership mindset, I architect and optimize solutions that enhance user experience, decentralization, operational efficiency, and compliance.
+I build **scalable, production-ready applications** with a clear focus on structure, performance, reliability, and high-quality engineering.
 
 ## 🔥 What I Build
 - AI-augmented decentralized applications (dApps) with data analytics and governance features
@@ -84,6 +100,22 @@ Driven by an end-to-end ownership mindset, I architect and optimize solutions th
     <td align="center"><img src="/logo/llamaindex.png" width="55"/><br><b>LlamaIndex</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/crewai" width="55"/><br><b>CrewAI</b></td>
   </tr>
+    <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/powerbi" width="50"/><br><b>Power BI</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/microsoftExcel" width="50"/><br><b>Excel</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pandas" width="50"/><br><b>Pandas</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/numpy" width="50"/><br><b>NumPy</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="50"/><br><b>Jupyter</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow" width="50"/><br><b>Airflow</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/dbt" width="50"/><br><b>DBT</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheSpark" width="50"/><br><b>Spark*</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/matplotlib" width="50"/><br><b>Matplotlib</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/seaborn" width="50"/><br><b>Seaborn</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/looker" width="50"/><br><b>Looker*</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheSuperset" width="50"/><br><b>Superset*</b></td>
+  </tr>
 </table>
 </div>
 
@@ -98,9 +130,15 @@ const currentFocus = {
 ```
 
 ## 🔥 Let's Connect
+
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sl177y)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sl177y.log0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SL177Y-0)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SL177Y0)
+
+
+
 </div>
+
