@@ -45,6 +45,20 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="https://cdn.simpleicons.org/solidity" width="55"/><br><b>Solidity</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/gnubash" width="55"/><br><b>Bash</b></td>
   </tr>
+    <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/><br><b>Power BI</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50"/><br><b>Excel</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pandas" width="50"/><br><b>Pandas</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/numpy" width="50"/><br><b>NumPy</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow" width="50"/><br><b>Airflow</b></td>
+  </tr>
+    <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="50"/><br><b>DBT</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheSpark" width="50"/><br><b>Spark</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/><br><b>Matplotlib</b></td>
+    <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/><br><b>Seaborn</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/looker" width="50"/><br><b>Looker</b></td>
+  </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/react" width="55"/><br><b>React</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs" width="55"/><br><b>Next.js</b></td>
@@ -71,51 +85,20 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="https://cdn.simpleicons.org/kubernetes" width="55"/><br><b>Kubernetes</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/githubactions" width="55"/><br><b>GitHub Actions</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/terraform" width="55"/><br><b>Terraform</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/huggingface" width="55"/><br><b>Hugging Face</b></td>
   </tr>
   <tr>
     <td align="center"><img src="/logo/Aptos.png" width="55"/><br><b>Aptos</b></td>
     <td align="center"><img src="/logo/tron.svg" width="55"/><br><b>Tron</b></td>
     <td align="center"><img src="/logo/hardhat.png" width="55"/><br><b>Hardhat</b></td>
     <td align="center"><img src="/logo/foundry.png" width="55"/><br><b>Foundry</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/huggingface" width="55"/><br><b>Hugging Face</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/crewai" width="55"/><br><b>CrewAI</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="/logo/LLAVA.png" width="55"/><br><b>LLaVA</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="50"/><br><b>Jupyter</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/openai" width="55"/><br><b>OpenAI</b></td>
     <td align="center"><img src="/logo/pinecone.svg" width="55"/><br><b>Pinecone</b></td>
     <td align="center"><img src="/logo/weavite.png" width="55"/><br><b>Weaviate</b></td>
-    <td align="center"><img src="/logo/llamaindex.png" width="55"/><br><b>LlamaIndex</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/crewai" width="55"/><br><b>CrewAI</b></td>
-  </tr>
-    <tr>
-    <td align="center">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50"/>
-  <br><b>Power BI</b>
-</td>
- <td align="center">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50"/>
-  <br><b>Excel</b>
-</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/pandas" width="50"/><br><b>Pandas</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/numpy" width="50"/><br><b>NumPy</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="50"/><br><b>Jupyter</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow" width="50"/><br><b>Airflow</b></td>
-  </tr>
-  <tr>
-  <td align="center">
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" width="50"/>
-  <br><b>DBT</b>
-</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apacheSpark" width="50"/><br><b>Spark</b></td>
-  <td align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
-  <br><b>Matplotlib</b>
-</td>
- <td align="center">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
-  <br><b>Seaborn</b>
-</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/looker" width="50"/><br><b>Looker</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/apacheSuperset" width="50"/><br><b>Superset</b></td>
   </tr>
 </table>
