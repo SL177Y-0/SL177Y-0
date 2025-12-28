@@ -3,7 +3,7 @@
 
 # ⚡ Rishi Rawat (SL177Y) ⚡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Engineering+Scalable+High-Performance+Systems;AI+Automation+%2B+Blockchain+Engineering;Data+&+Business;Building+Production-Ready+End-to-End+Platforms;Architecting+Reliable+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Engineering+Scalable+High-Performance+Systems;AI+Automation+%2B+Blockchain+Engineering;Data+With+Business;Building+Production-Ready+End-to-End+Platforms;Architecting+Reliable+Distributed+Systems)](https://git.io/typing-svg)
 
 ### ⚡ Ideate → Code → Ship → Deploy ⚡
 
