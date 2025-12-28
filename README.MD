@@ -47,13 +47,20 @@ I build **scalable, production-ready applications** with a clear focus on struct
   </tr>
     <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/><br><b>Power BI</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50"/><br><b>Excel</b></td>
+    <td align="center"><img src="/excel.png" width="50"/><br><b>Excel</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/pandas" width="50"/><br><b>Pandas</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/numpy" width="50"/><br><b>NumPy</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow" width="50"/><br><b>Airflow</b></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="50"/><br><b>Jupyter</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai" width="55"/><br><b>OpenAI</b></td>
+    <td align="center"><img src="/logo/pinecone.svg" width="55"/><br><b>Pinecone</b></td>
+    <td align="center"><img src="/logo/weavite.png" width="55"/><br><b>Weaviate</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheSuperset" width="50"/><br><b>Superset</b></td>
+  </tr>
     <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="50"/><br><b>DBT</b></td>
+    <td align="center"><img src="/dbt.svg" width="50"/><br><b>DBT</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/apacheSpark" width="50"/><br><b>Spark</b></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/><br><b>Matplotlib</b></td>
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/><br><b>Seaborn</b></td>
@@ -94,13 +101,7 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="/logo/foundry.png" width="55"/><br><b>Foundry</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/crewai" width="55"/><br><b>CrewAI</b></td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="50"/><br><b>Jupyter</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai" width="55"/><br><b>OpenAI</b></td>
-    <td align="center"><img src="/logo/pinecone.svg" width="55"/><br><b>Pinecone</b></td>
-    <td align="center"><img src="/logo/weavite.png" width="55"/><br><b>Weaviate</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apacheSuperset" width="50"/><br><b>Superset</b></td>
-  </tr>
+
 </table>
 </div>
 
