@@ -3,7 +3,7 @@
 
 # ⚡ Rishi Rawat (SL177Y) ⚡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Engineering+Scalable+High-Performance+Systems;AI+Automation+%2B+Blockchain+Engineering;Full-Stack+Development+with+Data+Analytics;Building+Production-Ready+End-to-End+Platforms;Architecting+Reliable+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Engineering+Scalable+High-Performance+Systems;AI+Automation+%2B+Blockchain+Engineering;Data+Business;Building+Production-Ready+End-to-End+Platforms;Architecting+Reliable+Distributed+Systems)](https://git.io/typing-svg)
 
 ### ⚡ Ideate → Code → Ship → Deploy ⚡
 
@@ -14,10 +14,10 @@
 ## 🔥 About Me
 Versatile **Analyst & Engineer** with a Bachelors in Data Science, working across:
 
+- Data analytics & reporting  
 - Full-stack development  
 - AI/LLM automation  
 - Blockchain engineering  
-- Data analytics & reporting  
 - Systems operations & governance  
 
 I build **scalable, production-ready applications** with a clear focus on structure, performance, reliability, and high-quality engineering.
@@ -43,7 +43,6 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="/logo/Python.png" width="55"/><br><b>Python</b></td>
     <td align="center"><img src="/logo/rust.png" width="55"/><br><b>Rust</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/solidity" width="55"/><br><b>Solidity</b></td>
-    <td align="center"><img src="/move.png" width="55"/><br><b>Move</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/gnubash" width="55"/><br><b>Bash</b></td>
   </tr>
   <tr>
@@ -51,7 +50,6 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs" width="55"/><br><b>Next.js</b></td>
     <td align="center"><img src="/logo/native.png" width="55"/><br><b>React Native</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss" width="55"/><br><b>TailwindCSS</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vite" width="55"/><br><b>Vite</b></td>
     <td align="center"><img src="/logo/threejs.png" width="55"/><br><b>Three.js</b></td>
   </tr>
   <tr>
@@ -59,13 +57,11 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="https://cdn.simpleicons.org/nestjs" width="55"/><br><b>NestJS</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/fastapi" width="55"/><br><b>FastAPI</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/trpc" width="55"/><br><b>tRPC</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/socketdotio" width="55"/><br><b>Socket.io</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/graphql" width="55"/><br><b>GraphQL</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/postgresql" width="55"/><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/mysql" width="55"/><br><b>MySQL</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/mongodb" width="55"/><br><b>MongoDB</b></td>
     <td align="center"><img src="/logo/dynamodb.png" width="55"/><br><b>DynamoDB</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/redis" width="55"/><br><b>Redis</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/prisma" width="55"/><br><b>Prisma</b></td>
@@ -75,13 +71,10 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="https://cdn.simpleicons.org/kubernetes" width="55"/><br><b>Kubernetes</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/githubactions" width="55"/><br><b>GitHub Actions</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/terraform" width="55"/><br><b>Terraform</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ipfs" width="55"/><br><b>IPFS</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ethereum" width="55"/><br><b>Ethereum</b></td>
   </tr>
   <tr>
     <td align="center"><img src="/logo/Aptos.png" width="55"/><br><b>Aptos</b></td>
     <td align="center"><img src="/logo/tron.svg" width="55"/><br><b>Tron</b></td>
-    <td align="center"><img src="/logo/sei.png" width="55"/><br><b>Sei</b></td>
     <td align="center"><img src="/logo/hardhat.png" width="55"/><br><b>Hardhat</b></td>
     <td align="center"><img src="/logo/foundry.png" width="55"/><br><b>Foundry</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/huggingface" width="55"/><br><b>Hugging Face</b></td>
@@ -95,20 +88,35 @@ I build **scalable, production-ready applications** with a clear focus on struct
     <td align="center"><img src="https://cdn.simpleicons.org/crewai" width="55"/><br><b>CrewAI</b></td>
   </tr>
     <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/powerbi" width="50"/><br><b>Power BI</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/microsoftExcel" width="50"/><br><b>Excel</b></td>
+    <td align="center">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50"/>
+  <br><b>Power BI</b>
+</td>
+ <td align="center">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50"/>
+  <br><b>Excel</b>
+</td>
     <td align="center"><img src="https://cdn.simpleicons.org/pandas" width="50"/><br><b>Pandas</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/numpy" width="50"/><br><b>NumPy</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="50"/><br><b>Jupyter</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow" width="50"/><br><b>Airflow</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/dbt" width="50"/><br><b>DBT</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apacheSpark" width="50"/><br><b>Spark*</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/matplotlib" width="50"/><br><b>Matplotlib</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/seaborn" width="50"/><br><b>Seaborn</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/looker" width="50"/><br><b>Looker*</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apacheSuperset" width="50"/><br><b>Superset*</b></td>
+  <td align="center">
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" width="50"/>
+  <br><b>DBT</b>
+</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheSpark" width="50"/><br><b>Spark</b></td>
+  <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
+  <br><b>Matplotlib</b>
+</td>
+ <td align="center">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+  <br><b>Seaborn</b>
+</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/looker" width="50"/><br><b>Looker</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheSuperset" width="50"/><br><b>Superset</b></td>
   </tr>
 </table>
 </div>
@@ -116,9 +124,9 @@ I build **scalable, production-ready applications** with a clear focus on struct
 ## 🔥 Current Focus
 ```ts
 const currentFocus = {
-  learning: ["AWS Advanced Architectures", "WebGL Shaders", "AI Model Training", "Data Governance Frameworks"],
-  building: ["AI + Blockchain dApps", "3D Web Ecosystems", "Microservices with Analytics", "Systems Operations Platforms"],
-  exploring: ["WebAssembly", "Edge Computing", "Business Intelligence Tools"],
+  learning: ["Data+Biz Tech", "AWS Advanced Architectures", "AI Model Training", "Data Governance Frameworks"],
+  building: [ "Microservices with Analytics" , "AI + Blockchain dApps" , "3D Web Ecosystems" , "Systems Operations Platforms"],
+  exploring: ["WebAssembly" , "Edge Computing" , "Business Intelligence Tools"],
   collaborating: ["Open Source Contributions", "High-Impact MVPs"]
 };
 ```
